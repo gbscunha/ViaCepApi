@@ -1,0 +1,10 @@
+C:\source\Fgv.Certificacao.Adaptadores.ViaCep\ViaCepApp\bin\Debug\ViaCepApp.exe.config
+C:\source\Fgv.Certificacao.Adaptadores.ViaCep\ViaCepApp\bin\Debug\ViaCepApp.exe
+C:\source\Fgv.Certificacao.Adaptadores.ViaCep\ViaCepApp\bin\Debug\ViaCepApp.pdb
+C:\source\Fgv.Certificacao.Adaptadores.ViaCep\ViaCepApp\bin\Debug\ViaCepApi.dll
+C:\source\Fgv.Certificacao.Adaptadores.ViaCep\ViaCepApp\bin\Debug\ViaCepApi.pdb
+C:\source\Fgv.Certificacao.Adaptadores.ViaCep\ViaCepApp\obj\Debug\ViaCepApp.csproj.AssemblyReference.cache
+C:\source\Fgv.Certificacao.Adaptadores.ViaCep\ViaCepApp\obj\Debug\ViaCepApp.csproj.CoreCompileInputs.cache
+C:\source\Fgv.Certificacao.Adaptadores.ViaCep\ViaCepApp\obj\Debug\ViaCepApp.csproj.CopyComplete
+C:\source\Fgv.Certificacao.Adaptadores.ViaCep\ViaCepApp\obj\Debug\ViaCepApp.exe
+C:\source\Fgv.Certificacao.Adaptadores.ViaCep\ViaCepApp\obj\Debug\ViaCepApp.pdb
